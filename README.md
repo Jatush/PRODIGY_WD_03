@@ -25,7 +25,7 @@ Welcome to my Tic-Tac-Toe web application! This project was built using HTML, CS
 
 ## How to Play
 
-1. Open the [Tic-Tac-Toe Web App]((https://jatush.github.io/PRODIGY_WD_03/)).
+1. Open the [Tic-Tac-Toe Web App](https://jatush.github.io/PRODIGY_WD_03/).
 2. Choose your game mode: two-player or against the Minimax AI.
 3. Take turns placing your marker (X or O) on the grid.
 4. The game will notify you when a player achieves three in a row or if the game ends in a draw.
